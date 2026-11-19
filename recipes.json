@@ -1323,61 +1323,6 @@
     ]
   },
   {
-    "id": "recipe-27",
-    "name": "香菇油菜",
-    "category": "素菜",
-    "description": "清爽健康的香菇油菜，简单又美味的素菜选择。",
-    "coverImage": "https://images.unsplash.com/photo-1583107782233-25b405e80a7a?w=600&h=400&fit=crop",
-    "cookingSteps": "1. 油菜洗净，香菇切片\n2. 烧开水，加少许油盐，焯水油菜捞出\n3. 锅中热油，放入香菇翻炒\n4. 加入蚝油、生抽、少许糖\n5. 加少许水煮至香菇入味\n6. 将香菇放在油菜上\n7. 锅中汤汁勾薄芡，淋在菜上",
-    "cookingTime": 10,
-    "difficulty": "easy",
-    "servings": 2,
-    "tags": [
-      "素菜",
-      "健康",
-      "清淡"
-    ],
-    "createdBy": "ta",
-    "createdAt": "2024-11-27T09:00:00.000Z",
-    "updatedAt": "2024-11-27T09:00:00.000Z",
-    "favorited": false,
-    "liked": true,
-    "likeCount": 3,
-    "cookCount": 7,
-    "ingredients": [
-      {
-        "ingredientId": "ing-58",
-        "name": "油菜",
-        "amount": "300",
-        "unit": "g"
-      },
-      {
-        "ingredientId": "ing-59",
-        "name": "香菇",
-        "amount": "6",
-        "unit": "朵"
-      },
-      {
-        "ingredientId": "ing-41",
-        "name": "蚝油",
-        "amount": "1",
-        "unit": "勺"
-      },
-      {
-        "ingredientId": "ing-3",
-        "name": "生抽",
-        "amount": "1",
-        "unit": "勺"
-      },
-      {
-        "ingredientId": "ing-22",
-        "name": "糖",
-        "amount": "少许",
-        "unit": ""
-      }
-    ]
-  },
-  {
     "id": "recipe-28",
     "name": "蒜苔炒肉",
     "category": "家常菜",
