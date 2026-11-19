@@ -9,7 +9,11 @@
     "cookingTime": 30,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["经典", "下饭", "新手友好"],
+    "tags": [
+      "经典",
+      "下饭",
+      "新手友好"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-01T08:00:00.000Z",
     "updatedAt": "2024-11-01T08:00:00.000Z",
@@ -18,13 +22,48 @@
     "likeCount": 5,
     "cookCount": 12,
     "ingredients": [
-      { "ingredientId": "ing-1", "name": "鸡翅中", "amount": "500", "unit": "g" },
-      { "ingredientId": "ing-2", "name": "可乐", "amount": "330", "unit": "ml" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "3", "unit": "片" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-7", "name": "白芝麻", "amount": "适量", "unit": "" }
+      {
+        "ingredientId": "ing-1",
+        "name": "鸡翅中",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-2",
+        "name": "可乐",
+        "amount": "330",
+        "unit": "ml"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-7",
+        "name": "白芝麻",
+        "amount": "适量",
+        "unit": ""
+      }
     ]
   },
   {
@@ -37,7 +76,11 @@
     "cookingTime": 120,
     "difficulty": "medium",
     "servings": 3,
-    "tags": ["暖汤", "冬日", "滋补"],
+    "tags": [
+      "暖汤",
+      "冬日",
+      "滋补"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-02T10:00:00.000Z",
     "updatedAt": "2024-11-02T10:00:00.000Z",
@@ -46,40 +89,36 @@
     "likeCount": 3,
     "cookCount": 8,
     "ingredients": [
-      { "ingredientId": "ing-8", "name": "牛腩", "amount": "500", "unit": "g" },
-      { "ingredientId": "ing-9", "name": "番茄", "amount": "3", "unit": "个" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-10", "name": "番茄酱", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-11", "name": "八角", "amount": "2", "unit": "个" }
-    ]
-  },
-  {
-    "id": "recipe-3",
-    "name": "红烧肉",
-    "category": "家常菜",
-    "description": "肥而不腻、入口即化的红烧肉，配米饭能吃三碗！",
-    "coverImage": "https://images.unsplash.com/photo-1623689046286-01826b54539b?w=600&h=400&fit=crop",
-    "cookingSteps": "1. 五花肉切块，冷水下锅焯水去腥\n2. 锅中放少许油，加冰糖小火炒出糖色\n3. 放入五花肉翻炒上色\n4. 加入生抽、老抽、料酒、姜片、八角、桂皮\n5. 倒入热水没过肉，大火烧开\n6. 转小火炖40分钟至肉软烂\n7. 大火收汁，撒上葱花即可",
-    "cookingTime": 60,
-    "difficulty": "medium",
-    "servings": 3,
-    "tags": ["经典", "下饭", "硬菜"],
-    "createdBy": "me",
-    "createdAt": "2024-11-03T09:00:00.000Z",
-    "updatedAt": "2024-11-03T09:00:00.000Z",
-    "favorited": true,
-    "liked": true,
-    "likeCount": 8,
-    "cookCount": 15,
-    "ingredients": [
-      { "ingredientId": "ing-12", "name": "五花肉", "amount": "500", "unit": "g" },
-      { "ingredientId": "ing-13", "name": "冰糖", "amount": "30", "unit": "g" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "5", "unit": "片" },
-      { "ingredientId": "ing-11", "name": "八角", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-14", "name": "桂皮", "amount": "1", "unit": "小段" }
+      {
+        "ingredientId": "ing-8",
+        "name": "牛腩",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-9",
+        "name": "番茄",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-10",
+        "name": "番茄酱",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-11",
+        "name": "八角",
+        "amount": "2",
+        "unit": "个"
+      }
     ]
   },
   {
@@ -92,7 +131,11 @@
     "cookingTime": 20,
     "difficulty": "medium",
     "servings": 2,
-    "tags": ["川菜", "下饭", "经典"],
+    "tags": [
+      "川菜",
+      "下饭",
+      "经典"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-04T11:00:00.000Z",
     "updatedAt": "2024-11-04T11:00:00.000Z",
@@ -101,15 +144,60 @@
     "likeCount": 6,
     "cookCount": 10,
     "ingredients": [
-      { "ingredientId": "ing-15", "name": "鸡胸肉", "amount": "300", "unit": "g" },
-      { "ingredientId": "ing-16", "name": "花生米", "amount": "50", "unit": "g" },
-      { "ingredientId": "ing-17", "name": "干辣椒", "amount": "8", "unit": "个" },
-      { "ingredientId": "ing-18", "name": "花椒", "amount": "1", "unit": "小把" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "2", "unit": "根" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "3", "unit": "瓣" },
-      { "ingredientId": "ing-21", "name": "醋", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-23", "name": "淀粉", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-15",
+        "name": "鸡胸肉",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-16",
+        "name": "花生米",
+        "amount": "50",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-17",
+        "name": "干辣椒",
+        "amount": "8",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-18",
+        "name": "花椒",
+        "amount": "1",
+        "unit": "小把"
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-21",
+        "name": "醋",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -122,7 +210,11 @@
     "cookingTime": 20,
     "difficulty": "medium",
     "servings": 2,
-    "tags": ["川菜", "下饭", "经典"],
+    "tags": [
+      "川菜",
+      "下饭",
+      "经典"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-05T10:30:00.000Z",
     "updatedAt": "2024-11-05T10:30:00.000Z",
@@ -131,14 +223,54 @@
     "likeCount": 7,
     "cookCount": 9,
     "ingredients": [
-      { "ingredientId": "ing-24", "name": "猪里脊", "amount": "250", "unit": "g" },
-      { "ingredientId": "ing-25", "name": "木耳", "amount": "50", "unit": "g" },
-      { "ingredientId": "ing-26", "name": "胡萝卜", "amount": "1", "unit": "根" },
-      { "ingredientId": "ing-27", "name": "青椒", "amount": "1", "unit": "个" },
-      { "ingredientId": "ing-28", "name": "泡椒", "amount": "3", "unit": "个" },
-      { "ingredientId": "ing-21", "name": "醋", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "1.5", "unit": "勺" },
-      { "ingredientId": "ing-29", "name": "豆瓣酱", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-24",
+        "name": "猪里脊",
+        "amount": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-25",
+        "name": "木耳",
+        "amount": "50",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-26",
+        "name": "胡萝卜",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-27",
+        "name": "青椒",
+        "amount": "1",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-28",
+        "name": "泡椒",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-21",
+        "name": "醋",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-29",
+        "name": "豆瓣酱",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -151,7 +283,11 @@
     "cookingTime": 15,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["川菜", "下饭", "快手"],
+    "tags": [
+      "川菜",
+      "下饭",
+      "快手"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-06T12:00:00.000Z",
     "updatedAt": "2024-11-06T12:00:00.000Z",
@@ -160,13 +296,48 @@
     "likeCount": 9,
     "cookCount": 18,
     "ingredients": [
-      { "ingredientId": "ing-30", "name": "嫩豆腐", "amount": "1", "unit": "块" },
-      { "ingredientId": "ing-31", "name": "猪肉末", "amount": "100", "unit": "g" },
-      { "ingredientId": "ing-29", "name": "豆瓣酱", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-32", "name": "花椒粉", "amount": "适量", "unit": "" },
-      { "ingredientId": "ing-33", "name": "辣椒粉", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "3", "unit": "瓣" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "2", "unit": "片" }
+      {
+        "ingredientId": "ing-30",
+        "name": "嫩豆腐",
+        "amount": "1",
+        "unit": "块"
+      },
+      {
+        "ingredientId": "ing-31",
+        "name": "猪肉末",
+        "amount": "100",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-29",
+        "name": "豆瓣酱",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-32",
+        "name": "花椒粉",
+        "amount": "适量",
+        "unit": ""
+      },
+      {
+        "ingredientId": "ing-33",
+        "name": "辣椒粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "2",
+        "unit": "片"
+      }
     ]
   },
   {
@@ -179,7 +350,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["快手", "新手友好", "经典"],
+    "tags": [
+      "快手",
+      "新手友好",
+      "经典"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-07T08:00:00.000Z",
     "updatedAt": "2024-11-07T08:00:00.000Z",
@@ -188,10 +363,30 @@
     "likeCount": 12,
     "cookCount": 25,
     "ingredients": [
-      { "ingredientId": "ing-9", "name": "番茄", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-34", "name": "鸡蛋", "amount": "3", "unit": "个" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "少许", "unit": "" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "1", "unit": "根" }
+      {
+        "ingredientId": "ing-9",
+        "name": "番茄",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-34",
+        "name": "鸡蛋",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "少许",
+        "unit": ""
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "1",
+        "unit": "根"
+      }
     ]
   },
   {
@@ -204,7 +399,11 @@
     "cookingTime": 45,
     "difficulty": "medium",
     "servings": 3,
-    "tags": ["酸甜", "硬菜", "宴客"],
+    "tags": [
+      "酸甜",
+      "硬菜",
+      "宴客"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-08T11:00:00.000Z",
     "updatedAt": "2024-11-08T11:00:00.000Z",
@@ -213,13 +412,48 @@
     "likeCount": 7,
     "cookCount": 11,
     "ingredients": [
-      { "ingredientId": "ing-35", "name": "小排骨", "amount": "500", "unit": "g" },
-      { "ingredientId": "ing-21", "name": "醋", "amount": "3", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-10", "name": "番茄酱", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-7", "name": "白芝麻", "amount": "适量", "unit": "" }
+      {
+        "ingredientId": "ing-35",
+        "name": "小排骨",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-21",
+        "name": "醋",
+        "amount": "3",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-10",
+        "name": "番茄酱",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-7",
+        "name": "白芝麻",
+        "amount": "适量",
+        "unit": ""
+      }
     ]
   },
   {
@@ -232,7 +466,11 @@
     "cookingTime": 20,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["清淡", "健康", "宴客"],
+    "tags": [
+      "清淡",
+      "健康",
+      "宴客"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-09T12:00:00.000Z",
     "updatedAt": "2024-11-09T12:00:00.000Z",
@@ -241,12 +479,42 @@
     "likeCount": 6,
     "cookCount": 8,
     "ingredients": [
-      { "ingredientId": "ing-36", "name": "鲈鱼", "amount": "1", "unit": "条" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "1", "unit": "块" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "2", "unit": "根" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-37", "name": "蒸鱼豉油", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-38", "name": "红椒", "amount": "半个", "unit": "" }
+      {
+        "ingredientId": "ing-36",
+        "name": "鲈鱼",
+        "amount": "1",
+        "unit": "条"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "1",
+        "unit": "块"
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-37",
+        "name": "蒸鱼豉油",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-38",
+        "name": "红椒",
+        "amount": "半个",
+        "unit": ""
+      }
     ]
   },
   {
@@ -259,7 +527,11 @@
     "cookingTime": 100,
     "difficulty": "medium",
     "servings": 3,
-    "tags": ["炖菜", "冬日", "硬菜"],
+    "tags": [
+      "炖菜",
+      "冬日",
+      "硬菜"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-10T10:00:00.000Z",
     "updatedAt": "2024-11-10T10:00:00.000Z",
@@ -268,14 +540,54 @@
     "likeCount": 5,
     "cookCount": 7,
     "ingredients": [
-      { "ingredientId": "ing-8", "name": "牛腩", "amount": "500", "unit": "g" },
-      { "ingredientId": "ing-39", "name": "土豆", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-26", "name": "胡萝卜", "amount": "1", "unit": "根" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-11", "name": "八角", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-14", "name": "桂皮", "amount": "1", "unit": "小段" }
+      {
+        "ingredientId": "ing-8",
+        "name": "牛腩",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-39",
+        "name": "土豆",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-26",
+        "name": "胡萝卜",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-11",
+        "name": "八角",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-14",
+        "name": "桂皮",
+        "amount": "1",
+        "unit": "小段"
+      }
     ]
   },
   {
@@ -288,7 +600,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["素菜", "快手", "健康"],
+    "tags": [
+      "素菜",
+      "快手",
+      "健康"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-11T09:00:00.000Z",
     "updatedAt": "2024-11-11T09:00:00.000Z",
@@ -297,9 +613,24 @@
     "likeCount": 4,
     "cookCount": 14,
     "ingredients": [
-      { "ingredientId": "ing-40", "name": "西兰花", "amount": "1", "unit": "颗" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "5", "unit": "瓣" },
-      { "ingredientId": "ing-41", "name": "蚝油", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-40",
+        "name": "西兰花",
+        "amount": "1",
+        "unit": "颗"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "5",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -312,7 +643,11 @@
     "cookingTime": 30,
     "difficulty": "medium",
     "servings": 3,
-    "tags": ["酸辣", "下饭", "硬菜"],
+    "tags": [
+      "酸辣",
+      "下饭",
+      "硬菜"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-12T12:00:00.000Z",
     "updatedAt": "2024-11-12T12:00:00.000Z",
@@ -321,13 +656,48 @@
     "likeCount": 8,
     "cookCount": 6,
     "ingredients": [
-      { "ingredientId": "ing-42", "name": "草鱼", "amount": "1", "unit": "条" },
-      { "ingredientId": "ing-43", "name": "酸菜", "amount": "200", "unit": "g" },
-      { "ingredientId": "ing-44", "name": "泡椒", "amount": "5", "unit": "个" },
-      { "ingredientId": "ing-34", "name": "鸡蛋", "amount": "1", "unit": "个" },
-      { "ingredientId": "ing-23", "name": "淀粉", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-17", "name": "干辣椒", "amount": "10", "unit": "个" },
-      { "ingredientId": "ing-18", "name": "花椒", "amount": "1", "unit": "小把" }
+      {
+        "ingredientId": "ing-42",
+        "name": "草鱼",
+        "amount": "1",
+        "unit": "条"
+      },
+      {
+        "ingredientId": "ing-43",
+        "name": "酸菜",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-44",
+        "name": "泡椒",
+        "amount": "5",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-34",
+        "name": "鸡蛋",
+        "amount": "1",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-17",
+        "name": "干辣椒",
+        "amount": "10",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-18",
+        "name": "花椒",
+        "amount": "1",
+        "unit": "小把"
+      }
     ]
   },
   {
@@ -340,7 +710,11 @@
     "cookingTime": 15,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["素菜", "下饭", "快手"],
+    "tags": [
+      "素菜",
+      "下饭",
+      "快手"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-13T11:00:00.000Z",
     "updatedAt": "2024-11-13T11:00:00.000Z",
@@ -349,12 +723,42 @@
     "likeCount": 5,
     "cookCount": 10,
     "ingredients": [
-      { "ingredientId": "ing-45", "name": "四季豆", "amount": "300", "unit": "g" },
-      { "ingredientId": "ing-31", "name": "猪肉末", "amount": "50", "unit": "g" },
-      { "ingredientId": "ing-17", "name": "干辣椒", "amount": "5", "unit": "个" },
-      { "ingredientId": "ing-18", "name": "花椒", "amount": "少许", "unit": "" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "3", "unit": "瓣" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-45",
+        "name": "四季豆",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-31",
+        "name": "猪肉末",
+        "amount": "50",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-17",
+        "name": "干辣椒",
+        "amount": "5",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-18",
+        "name": "花椒",
+        "amount": "少许",
+        "unit": ""
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -367,7 +771,11 @@
     "cookingTime": 20,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["素菜", "下饭", "经典"],
+    "tags": [
+      "素菜",
+      "下饭",
+      "经典"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-14T10:00:00.000Z",
     "updatedAt": "2024-11-14T10:00:00.000Z",
@@ -376,12 +784,42 @@
     "likeCount": 6,
     "cookCount": 12,
     "ingredients": [
-      { "ingredientId": "ing-46", "name": "茄子", "amount": "2", "unit": "根" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "4", "unit": "瓣" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "半", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-23", "name": "淀粉", "amount": "2", "unit": "勺" }
+      {
+        "ingredientId": "ing-46",
+        "name": "茄子",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "4",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "半",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "2",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -394,7 +832,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["快手", "下饭", "新手友好"],
+    "tags": [
+      "快手",
+      "下饭",
+      "新手友好"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-15T09:00:00.000Z",
     "updatedAt": "2024-11-15T09:00:00.000Z",
@@ -403,11 +845,36 @@
     "likeCount": 8,
     "cookCount": 20,
     "ingredients": [
-      { "ingredientId": "ing-24", "name": "猪里脊", "amount": "200", "unit": "g" },
-      { "ingredientId": "ing-47", "name": "青椒", "amount": "3", "unit": "个" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-23", "name": "淀粉", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-24",
+        "name": "猪里脊",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -420,7 +887,11 @@
     "cookingTime": 20,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["东北菜", "素菜", "下饭"],
+    "tags": [
+      "东北菜",
+      "素菜",
+      "下饭"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-16T11:00:00.000Z",
     "updatedAt": "2024-11-16T11:00:00.000Z",
@@ -429,13 +900,48 @@
     "likeCount": 5,
     "cookCount": 9,
     "ingredients": [
-      { "ingredientId": "ing-39", "name": "土豆", "amount": "1", "unit": "个" },
-      { "ingredientId": "ing-46", "name": "茄子", "amount": "1", "unit": "根" },
-      { "ingredientId": "ing-47", "name": "青椒", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "3", "unit": "瓣" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "半", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-39",
+        "name": "土豆",
+        "amount": "1",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-46",
+        "name": "茄子",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "半",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -448,7 +954,11 @@
     "cookingTime": 25,
     "difficulty": "medium",
     "servings": 2,
-    "tags": ["川菜", "下饭", "经典"],
+    "tags": [
+      "川菜",
+      "下饭",
+      "经典"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-17T12:00:00.000Z",
     "updatedAt": "2024-11-17T12:00:00.000Z",
@@ -457,11 +967,36 @@
     "likeCount": 7,
     "cookCount": 11,
     "ingredients": [
-      { "ingredientId": "ing-12", "name": "五花肉", "amount": "300", "unit": "g" },
-      { "ingredientId": "ing-48", "name": "蒜苗", "amount": "3", "unit": "根" },
-      { "ingredientId": "ing-47", "name": "青椒", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-29", "name": "豆瓣酱", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "少许", "unit": "" }
+      {
+        "ingredientId": "ing-12",
+        "name": "五花肉",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-48",
+        "name": "蒜苗",
+        "amount": "3",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-29",
+        "name": "豆瓣酱",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "少许",
+        "unit": ""
+      }
     ]
   },
   {
@@ -474,7 +1009,11 @@
     "cookingTime": 15,
     "difficulty": "easy",
     "servings": 1,
-    "tags": ["汤", "快手", "营养"],
+    "tags": [
+      "汤",
+      "快手",
+      "营养"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-18T08:00:00.000Z",
     "updatedAt": "2024-11-18T08:00:00.000Z",
@@ -483,10 +1022,30 @@
     "likeCount": 6,
     "cookCount": 22,
     "ingredients": [
-      { "ingredientId": "ing-34", "name": "鸡蛋", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-49", "name": "香油", "amount": "少许", "unit": "" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "1", "unit": "根" }
+      {
+        "ingredientId": "ing-34",
+        "name": "鸡蛋",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-49",
+        "name": "香油",
+        "amount": "少许",
+        "unit": ""
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "1",
+        "unit": "根"
+      }
     ]
   },
   {
@@ -499,7 +1058,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["素菜", "快手", "下饭"],
+    "tags": [
+      "素菜",
+      "快手",
+      "下饭"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-19T09:00:00.000Z",
     "updatedAt": "2024-11-19T09:00:00.000Z",
@@ -508,12 +1071,42 @@
     "likeCount": 10,
     "cookCount": 28,
     "ingredients": [
-      { "ingredientId": "ing-39", "name": "土豆", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-17", "name": "干辣椒", "amount": "5", "unit": "个" },
-      { "ingredientId": "ing-18", "name": "花椒", "amount": "少许", "unit": "" },
-      { "ingredientId": "ing-21", "name": "醋", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "3", "unit": "瓣" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "1", "unit": "根" }
+      {
+        "ingredientId": "ing-39",
+        "name": "土豆",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-17",
+        "name": "干辣椒",
+        "amount": "5",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-18",
+        "name": "花椒",
+        "amount": "少许",
+        "unit": ""
+      },
+      {
+        "ingredientId": "ing-21",
+        "name": "醋",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "1",
+        "unit": "根"
+      }
     ]
   },
   {
@@ -526,7 +1119,11 @@
     "cookingTime": 25,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["新手友好", "甜口", "下饭"],
+    "tags": [
+      "新手友好",
+      "甜口",
+      "下饭"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-20T10:00:00.000Z",
     "updatedAt": "2024-11-20T10:00:00.000Z",
@@ -535,12 +1132,42 @@
     "likeCount": 9,
     "cookCount": 16,
     "ingredients": [
-      { "ingredientId": "ing-50", "name": "鸡翅", "amount": "8", "unit": "个" },
-      { "ingredientId": "ing-51", "name": "可乐", "amount": "1", "unit": "罐" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "3", "unit": "片" },
-      { "ingredientId": "ing-7", "name": "白芝麻", "amount": "适量", "unit": "" }
+      {
+        "ingredientId": "ing-50",
+        "name": "鸡翅",
+        "amount": "8",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-51",
+        "name": "可乐",
+        "amount": "1",
+        "unit": "罐"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-7",
+        "name": "白芝麻",
+        "amount": "适量",
+        "unit": ""
+      }
     ]
   },
   {
@@ -553,7 +1180,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["冬日", "快手", "暖身"],
+    "tags": [
+      "冬日",
+      "快手",
+      "暖身"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-21T11:00:00.000Z",
     "updatedAt": "2024-11-21T11:00:00.000Z",
@@ -562,12 +1193,42 @@
     "likeCount": 4,
     "cookCount": 6,
     "ingredients": [
-      { "ingredientId": "ing-52", "name": "羊肉片", "amount": "300", "unit": "g" },
-      { "ingredientId": "ing-53", "name": "大葱", "amount": "2", "unit": "根" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-23", "name": "淀粉", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-18", "name": "花椒", "amount": "少许", "unit": "" }
+      {
+        "ingredientId": "ing-52",
+        "name": "羊肉片",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-53",
+        "name": "大葱",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-18",
+        "name": "花椒",
+        "amount": "少许",
+        "unit": ""
+      }
     ]
   },
   {
@@ -580,7 +1241,11 @@
     "cookingTime": 20,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["海鲜", "宴客", "蒜香"],
+    "tags": [
+      "海鲜",
+      "宴客",
+      "蒜香"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-22T12:00:00.000Z",
     "updatedAt": "2024-11-22T12:00:00.000Z",
@@ -589,12 +1254,42 @@
     "likeCount": 7,
     "cookCount": 9,
     "ingredients": [
-      { "ingredientId": "ing-54", "name": "大虾", "amount": "8", "unit": "只" },
-      { "ingredientId": "ing-55", "name": "粉丝", "amount": "1", "unit": "把" },
-      { "ingredientId": "ing-20", "name": "蒜", "amount": "1", "unit": "头" },
-      { "ingredientId": "ing-41", "name": "蚝油", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "1", "unit": "根" }
+      {
+        "ingredientId": "ing-54",
+        "name": "大虾",
+        "amount": "8",
+        "unit": "只"
+      },
+      {
+        "ingredientId": "ing-55",
+        "name": "粉丝",
+        "amount": "1",
+        "unit": "把"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "1",
+        "unit": "头"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "1",
+        "unit": "根"
+      }
     ]
   },
   {
@@ -607,7 +1302,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["汤", "快手", "新手友好"],
+    "tags": [
+      "汤",
+      "快手",
+      "新手友好"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-23T08:00:00.000Z",
     "updatedAt": "2024-11-23T08:00:00.000Z",
@@ -616,11 +1315,36 @@
     "likeCount": 11,
     "cookCount": 30,
     "ingredients": [
-      { "ingredientId": "ing-9", "name": "番茄", "amount": "1", "unit": "个" },
-      { "ingredientId": "ing-34", "name": "鸡蛋", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-49", "name": "香油", "amount": "少许", "unit": "" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "1", "unit": "根" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "少许", "unit": "" }
+      {
+        "ingredientId": "ing-9",
+        "name": "番茄",
+        "amount": "1",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-34",
+        "name": "鸡蛋",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-49",
+        "name": "香油",
+        "amount": "少许",
+        "unit": ""
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "少许",
+        "unit": ""
+      }
     ]
   },
   {
@@ -633,7 +1357,11 @@
     "cookingTime": 15,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["素菜", "下饭", "快手"],
+    "tags": [
+      "素菜",
+      "下饭",
+      "快手"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-24T09:00:00.000Z",
     "updatedAt": "2024-11-24T09:00:00.000Z",
@@ -642,12 +1370,42 @@
     "likeCount": 5,
     "cookCount": 13,
     "ingredients": [
-      { "ingredientId": "ing-56", "name": "老豆腐", "amount": "1", "unit": "块" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "半", "unit": "勺" },
-      { "ingredientId": "ing-41", "name": "蚝油", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "半", "unit": "勺" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "1", "unit": "根" }
+      {
+        "ingredientId": "ing-56",
+        "name": "老豆腐",
+        "amount": "1",
+        "unit": "块"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "半",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "半",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "1",
+        "unit": "根"
+      }
     ]
   },
   {
@@ -660,7 +1418,11 @@
     "cookingTime": 15,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["家常", "营养", "下饭"],
+    "tags": [
+      "家常",
+      "营养",
+      "下饭"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-25T10:00:00.000Z",
     "updatedAt": "2024-11-25T10:00:00.000Z",
@@ -669,12 +1431,42 @@
     "likeCount": 4,
     "cookCount": 8,
     "ingredients": [
-      { "ingredientId": "ing-24", "name": "猪里脊", "amount": "150", "unit": "g" },
-      { "ingredientId": "ing-34", "name": "鸡蛋", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-25", "name": "木耳", "amount": "50", "unit": "g" },
-      { "ingredientId": "ing-57", "name": "黄瓜", "amount": "1", "unit": "根" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-24",
+        "name": "猪里脊",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-34",
+        "name": "鸡蛋",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-25",
+        "name": "木耳",
+        "amount": "50",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-57",
+        "name": "黄瓜",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -687,7 +1479,11 @@
     "cookingTime": 50,
     "difficulty": "medium",
     "servings": 3,
-    "tags": ["硬菜", "下饭", "经典"],
+    "tags": [
+      "硬菜",
+      "下饭",
+      "经典"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-26T11:00:00.000Z",
     "updatedAt": "2024-11-26T11:00:00.000Z",
@@ -696,14 +1492,54 @@
     "likeCount": 8,
     "cookCount": 14,
     "ingredients": [
-      { "ingredientId": "ing-35", "name": "小排骨", "amount": "500", "unit": "g" },
-      { "ingredientId": "ing-13", "name": "冰糖", "amount": "30", "unit": "g" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-4", "name": "老抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "5", "unit": "片" },
-      { "ingredientId": "ing-11", "name": "八角", "amount": "2", "unit": "个" },
-      { "ingredientId": "ing-7", "name": "白芝麻", "amount": "适量", "unit": "" }
+      {
+        "ingredientId": "ing-35",
+        "name": "小排骨",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-13",
+        "name": "冰糖",
+        "amount": "30",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "5",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-11",
+        "name": "八角",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-7",
+        "name": "白芝麻",
+        "amount": "适量",
+        "unit": ""
+      }
     ]
   },
   {
@@ -716,7 +1552,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["素菜", "健康", "清淡"],
+    "tags": [
+      "素菜",
+      "健康",
+      "清淡"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-27T09:00:00.000Z",
     "updatedAt": "2024-11-27T09:00:00.000Z",
@@ -725,11 +1565,36 @@
     "likeCount": 3,
     "cookCount": 7,
     "ingredients": [
-      { "ingredientId": "ing-58", "name": "油菜", "amount": "300", "unit": "g" },
-      { "ingredientId": "ing-59", "name": "香菇", "amount": "6", "unit": "朵" },
-      { "ingredientId": "ing-41", "name": "蚝油", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-22", "name": "糖", "amount": "少许", "unit": "" }
+      {
+        "ingredientId": "ing-58",
+        "name": "油菜",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-59",
+        "name": "香菇",
+        "amount": "6",
+        "unit": "朵"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-22",
+        "name": "糖",
+        "amount": "少许",
+        "unit": ""
+      }
     ]
   },
   {
@@ -742,7 +1607,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["家常", "下饭", "快手"],
+    "tags": [
+      "家常",
+      "下饭",
+      "快手"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-28T10:00:00.000Z",
     "updatedAt": "2024-11-28T10:00:00.000Z",
@@ -751,11 +1620,36 @@
     "likeCount": 5,
     "cookCount": 11,
     "ingredients": [
-      { "ingredientId": "ing-60", "name": "蒜苔", "amount": "200", "unit": "g" },
-      { "ingredientId": "ing-24", "name": "猪里脊", "amount": "150", "unit": "g" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-23", "name": "淀粉", "amount": "1", "unit": "勺" }
+      {
+        "ingredientId": "ing-60",
+        "name": "蒜苔",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-24",
+        "name": "猪里脊",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      }
     ]
   },
   {
@@ -768,7 +1662,11 @@
     "cookingTime": 10,
     "difficulty": "easy",
     "servings": 2,
-    "tags": ["海鲜", "清淡", "快手"],
+    "tags": [
+      "海鲜",
+      "清淡",
+      "快手"
+    ],
     "createdBy": "ta",
     "createdAt": "2024-11-29T12:00:00.000Z",
     "updatedAt": "2024-11-29T12:00:00.000Z",
@@ -777,12 +1675,42 @@
     "likeCount": 6,
     "cookCount": 8,
     "ingredients": [
-      { "ingredientId": "ing-54", "name": "大虾", "amount": "500", "unit": "g" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "3", "unit": "片" },
-      { "ingredientId": "ing-6", "name": "料酒", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-3", "name": "生抽", "amount": "2", "unit": "勺" },
-      { "ingredientId": "ing-21", "name": "醋", "amount": "1", "unit": "勺" },
-      { "ingredientId": "ing-61", "name": "小米辣", "amount": "2", "unit": "个" }
+      {
+        "ingredientId": "ing-54",
+        "name": "大虾",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-21",
+        "name": "醋",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-61",
+        "name": "小米辣",
+        "amount": "2",
+        "unit": "个"
+      }
     ]
   },
   {
@@ -795,7 +1723,11 @@
     "cookingTime": 80,
     "difficulty": "easy",
     "servings": 3,
-    "tags": ["汤", "滋补", "清淡"],
+    "tags": [
+      "汤",
+      "滋补",
+      "清淡"
+    ],
     "createdBy": "me",
     "createdAt": "2024-11-30T10:00:00.000Z",
     "updatedAt": "2024-11-30T10:00:00.000Z",
@@ -804,11 +1736,36 @@
     "likeCount": 6,
     "cookCount": 10,
     "ingredients": [
-      { "ingredientId": "ing-35", "name": "小排骨", "amount": "400", "unit": "g" },
-      { "ingredientId": "ing-62", "name": "玉米", "amount": "2", "unit": "根" },
-      { "ingredientId": "ing-26", "name": "胡萝卜", "amount": "1", "unit": "根" },
-      { "ingredientId": "ing-5", "name": "姜", "amount": "3", "unit": "片" },
-      { "ingredientId": "ing-19", "name": "葱", "amount": "1", "unit": "根" }
+      {
+        "ingredientId": "ing-35",
+        "name": "小排骨",
+        "amount": "400",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-62",
+        "name": "玉米",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-26",
+        "name": "胡萝卜",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-19",
+        "name": "葱",
+        "amount": "1",
+        "unit": "根"
+      }
     ]
   }
 ]
