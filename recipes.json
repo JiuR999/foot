@@ -890,55 +890,6 @@
     ]
   },
   {
-    "id": "recipe-18",
-    "name": "鸡蛋羹",
-    "category": "汤",
-    "description": "嫩滑如豆腐的鸡蛋羹，简单营养，老少皆宜。",
-    "coverImage": "https://images.unsplash.com/photo-1598103442097-8b74d11997a5?w=600&h=400&fit=crop",
-    "cookingSteps": "1. 鸡蛋打入碗中，加少许盐打散\n2. 加入1.5倍温水，搅拌均匀\n3. 过筛去掉气泡\n4. 盖上保鲜膜，扎几个小孔\n5. 水开后上锅，中小火蒸10分钟\n6. 关火焖2分钟\n7. 淋上生抽、香油，撒上葱花",
-    "cookingTime": 15,
-    "difficulty": "easy",
-    "servings": 1,
-    "tags": [
-      "汤",
-      "快手",
-      "营养"
-    ],
-    "createdBy": "me",
-    "createdAt": "2024-11-18T08:00:00.000Z",
-    "updatedAt": "2024-11-18T08:00:00.000Z",
-    "favorited": true,
-    "liked": true,
-    "likeCount": 6,
-    "cookCount": 22,
-    "ingredients": [
-      {
-        "ingredientId": "ing-34",
-        "name": "鸡蛋",
-        "amount": "2",
-        "unit": "个"
-      },
-      {
-        "ingredientId": "ing-49",
-        "name": "香油",
-        "amount": "少许",
-        "unit": ""
-      },
-      {
-        "ingredientId": "ing-3",
-        "name": "生抽",
-        "amount": "1",
-        "unit": "勺"
-      },
-      {
-        "ingredientId": "ing-19",
-        "name": "葱",
-        "amount": "1",
-        "unit": "根"
-      }
-    ]
-  },
-  {
     "id": "recipe-19",
     "name": "酸辣土豆丝",
     "category": "素菜",
