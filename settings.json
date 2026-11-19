@@ -9,5 +9,6 @@
   "taNickname": "",
   "githubRepo": "foot",
   "githubOwner": "JiuR999",
-  "lastSyncAt": null
+  "lastSyncAt": null,
+  "aiModel": "gemini-3.8-flash"
 }
