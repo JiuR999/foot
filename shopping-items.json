@@ -1,0 +1,82 @@
+[
+  {
+    "id": "shop-1779240223205-0",
+    "ingredientName": "吐司",
+    "totalAmount": "4.0",
+    "unit": "片",
+    "checked": false,
+    "orderIds": [
+      "order-2"
+    ]
+  },
+  {
+    "id": "shop-1779240223205-1",
+    "ingredientName": "鸡蛋",
+    "totalAmount": "4.0",
+    "unit": "个",
+    "checked": false,
+    "orderIds": [
+      "order-2"
+    ]
+  },
+  {
+    "id": "shop-1779240223205-2",
+    "ingredientName": "黄油",
+    "totalAmount": "20.0",
+    "unit": "g",
+    "checked": false,
+    "orderIds": [
+      "order-2"
+    ]
+  },
+  {
+    "id": "shop-1779240223205-3",
+    "ingredientName": "草莓",
+    "totalAmount": "600.0",
+    "unit": "g",
+    "checked": false,
+    "orderIds": [
+      "order-3"
+    ]
+  },
+  {
+    "id": "shop-1779240223205-4",
+    "ingredientName": "淡奶油",
+    "totalAmount": "400.0",
+    "unit": "ml",
+    "checked": false,
+    "orderIds": [
+      "order-3"
+    ]
+  },
+  {
+    "id": "shop-1779240223205-5",
+    "ingredientName": "奶油奶酪",
+    "totalAmount": "400.0",
+    "unit": "g",
+    "checked": false,
+    "orderIds": [
+      "order-3"
+    ]
+  },
+  {
+    "id": "shop-1779240223205-6",
+    "ingredientName": "吉利丁片",
+    "totalAmount": "20.0",
+    "unit": "g",
+    "checked": false,
+    "orderIds": [
+      "order-3"
+    ]
+  },
+  {
+    "id": "shop-1779240223205-7",
+    "ingredientName": "消化饼干",
+    "totalAmount": "200.0",
+    "unit": "g",
+    "checked": false,
+    "orderIds": [
+      "order-3"
+    ]
+  }
+]
