@@ -2602,5 +2602,1705 @@
         "unit": ""
       }
     ]
+  },
+  {
+    "id": "mwnd55fdxen5tkg2",
+    "name": "素三鲜",
+    "category": "素菜",
+    "description": "经典家常素菜，鲜嫩清香，口感层次丰富。",
+    "coverImage": "",
+    "cookingSteps": "1. 土豆去皮切片，茄子切滚刀块，青椒切块\n2. 锅中倒油烧热，先下土豆片煎至微黄捞出\n3. 放入茄子块煎软捞出，再将青椒断生捞出\n4. 调一碗料汁：生抽、蚝油、淀粉加少许清水拌匀\n5. 锅留底油爆香蒜末，倒入所有食材翻炒\n6. 淋入料汁大火翻炒收汁即可出锅",
+    "cookingTime": 20,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "素菜",
+      "家常",
+      "下饭"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-39",
+        "name": "土豆",
+        "amount": "1",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-46",
+        "name": "茄子",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fetekq485a",
+    "name": "双椒兔丁",
+    "category": "家常菜",
+    "description": "兔肉滑嫩，青红椒香辣开胃，川味十足。",
+    "coverImage": "",
+    "cookingSteps": "1. 兔肉切丁，加料酒、生抽、盐、淀粉抓匀腌制 15 分钟\n2. 青椒、红椒去籽切丁，姜蒜切末，泡椒切碎\n3. 热锅倒油，下兔丁滑炒至变色盛出\n4. 锅中留油，下姜蒜末和泡椒炒出红油与香味\n5. 倒入青红椒丁翻炒断生\n6. 放回兔丁，加少许生抽、鸡精大火快速翻炒均匀出锅",
+    "cookingTime": 25,
+    "difficulty": "medium",
+    "servings": 2,
+    "tags": [
+      "川菜",
+      "香辣",
+      "下饭"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukanti04ow9a",
+        "name": "兔肉",
+        "amount": "350",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-38",
+        "name": "红椒",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-44",
+        "name": "泡椒",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "mwncukanvptd8qh8",
+        "name": "姜蒜",
+        "amount": "20",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fgzhlxg93y",
+    "name": "青椒土豆焖排骨",
+    "category": "家常菜",
+    "description": "排骨软烂入味，土豆绵密吸汁，青椒增添清香。",
+    "coverImage": "",
+    "cookingSteps": "1. 排骨冷水下锅焯水去沫，捞出温水洗净\n2. 土豆去皮切滚刀块，青椒切块，姜片葱段备好\n3. 锅中放少许油炒糖色或直接下排骨煎至微黄\n4. 加姜片、葱段、生抽、老抽、料酒翻炒上色\n5. 倒入没过排骨的热水，大火烧开转中小火炖 30 分钟\n6. 加入土豆块继续焖炖 15 分钟至软烂，最后放入青椒翻炒收汁加盐调味",
+    "cookingTime": 60,
+    "difficulty": "medium",
+    "servings": 3,
+    "tags": [
+      "炖菜",
+      "下饭",
+      "排骨"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukaonjqqdqlv",
+        "name": "猪排骨",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-39",
+        "name": "土豆",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "4",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fhdmt6f8sh",
+    "name": "青椒炒五花肉",
+    "category": "家常菜",
+    "description": "五花肉肥而不腻焦香诱人，青椒脆嫩辣香。",
+    "coverImage": "",
+    "cookingSteps": "1. 五花肉切薄片，青椒切滚刀块，蒜切片\n2. 锅中不用放太多油，下五花肉小火煸炒出油脂至微焦\n3. 拨到一旁，下蒜片、豆豉或少许老抽炒香上色\n4. 加生抽、料酒翻炒均匀\n5. 倒入青椒转大火快速翻炒至断生\n6. 加少许盐调味即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "家常菜",
+      "下饭",
+      "快手"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-12",
+        "name": "五花肉",
+        "amount": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fipqdyo6oy",
+    "name": "冬瓜虾滑汤",
+    "category": "汤",
+    "description": "汤色清亮鲜甜，冬瓜软嫩，虾滑Q弹爽口。",
+    "coverImage": "",
+    "cookingSteps": "1. 冬瓜去皮去瓤切薄片，香菜或葱花切碎\n2. 锅中倒入清水，放几片姜烧开\n3. 用勺子将虾滑挖成小丸子逐个下入沸水中\n4. 待虾滑浮起并变色后，放入冬瓜片煮至半透明\n5. 加盐、白胡椒粉调味，煮至冬瓜熟透\n6. 撒上葱花或香菜即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "汤",
+      "清淡",
+      "低脂"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukaoohdj6gig",
+        "name": "冬瓜",
+        "amount": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukao38acynkl",
+        "name": "虾滑",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "mwncukapo8yi6nol",
+        "name": "白胡椒粉",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukapfcnq3qhc",
+        "name": "葱花",
+        "amount": "适量",
+        "unit": ""
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fjb1jwbl1y",
+    "name": "莲藕排骨汤",
+    "category": "汤",
+    "description": "莲藕粉糯清香，排骨汤醇厚滋补。",
+    "coverImage": "",
+    "cookingSteps": "1. 排骨冷水下锅焯水去血沫，捞出洗净\n2. 莲藕去皮洗净切滚刀块，姜切片\n3. 汤锅中加入足量清水，放入排骨和姜片大火烧开\n4. 撇去浮沫，加入莲藕块，转小火炖煮约 60-90 分钟至莲藕粉糯、排骨脱骨\n5. 最后加盐调味即可",
+    "cookingTime": 90,
+    "difficulty": "easy",
+    "servings": 4,
+    "tags": [
+      "汤",
+      "滋补",
+      "家常"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukaonjqqdqlv",
+        "name": "猪排骨",
+        "amount": "500",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukaqysbmcyjg",
+        "name": "莲藕",
+        "amount": "400",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "4",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fldh91xced",
+    "name": "小炒黄牛肉",
+    "category": "家常菜",
+    "description": "牛肉鲜嫩有嚼劲，香辣味浓，十分下饭。",
+    "coverImage": "",
+    "cookingSteps": "1. 黄牛肉逆纹切薄片，加生抽、料酒、黑胡椒、淀粉抓匀腌制 15 分钟\n2. 辣椒切圈或段，小米辣切圈，蒜切片，香菜切段\n3. 热锅倒油烧热，下牛肉快速滑炒至七八成熟盛出\n4. 锅中留底油，下蒜片和辣椒炒香\n5. 倒回牛肉大火爆炒均匀，加少许蚝油和盐调味\n6. 撒入香菜段翻炒几下即可出锅",
+    "cookingTime": 20,
+    "difficulty": "medium",
+    "servings": 2,
+    "tags": [
+      "牛肉",
+      "香辣",
+      "下饭"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukaq9ql6lxfa",
+        "name": "黄牛肉",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukaq9ab9ipyp",
+        "name": "青红椒",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-61",
+        "name": "小米辣",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "4",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fma5bpespg",
+    "name": "西葫芦牛肉",
+    "category": "家常菜",
+    "description": "西葫芦清甜水润，牛肉嫩滑，清爽不腻。",
+    "coverImage": "",
+    "cookingSteps": "1. 牛肉切片，加生抽、料酒、淀粉腌制 10 分钟\n2. 西葫芦洗净切片，蒜切末\n3. 热锅放油，下牛肉滑炒变色后盛出备用\n4. 锅中重新放少许油，爆香蒜末，倒入西葫芦片翻炒至断生\n5. 放回牛肉，加生抽、盐快速翻炒均匀即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "家常菜",
+      "快手",
+      "低脂"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukaqrmkhbuea",
+        "name": "牛肉",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukarr27mou3e",
+        "name": "西葫芦",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fo8rs30q98",
+    "name": "鲜椒鸡翅",
+    "category": "家常菜",
+    "description": "鸡翅皮香肉嫩，鲜辣椒辣味清亮，越吃越香。",
+    "coverImage": "",
+    "cookingSteps": "1. 鸡翅洗净两面划刀，加料酒、生抽、黑胡椒、姜片抓匀腌制 20 分钟\n2. 鲜青红椒切圈或段，蒜切末\n3. 锅中倒油，放入鸡翅煎至两面金黄熟透，盛出备用\n4. 锅留底油，下蒜末和鲜椒翻炒出香\n5. 倒回鸡翅，加少许蚝油和盐翻炒均匀即可出锅",
+    "cookingTime": 25,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "鸡翅",
+      "鲜辣",
+      "家常"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-1",
+        "name": "鸡翅中",
+        "amount": "8",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "mwncukarsgbnww4e",
+        "name": "鲜辣椒",
+        "amount": "4",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fpxobfs5pw",
+    "name": "金汤板栗鸡肉",
+    "category": "家常菜",
+    "description": "板栗粉糯香甜，鸡肉鲜嫩入味，金汤浓郁。",
+    "coverImage": "",
+    "cookingSteps": "1. 鸡肉切块焯水洗净；板栗去壳备用\n2. 锅中放少许油，下鸡块煎炒至微黄\n3. 加姜片、生抽、老抽、料酒翻炒上色\n4. 倒入板栗和适量热水或高汤（可加少许南瓜泥或黄椒酱增金汤色）\n5. 大火烧开后转中小火炖煮 25-30 分钟至板栗软糯、汤汁浓稠\n6. 加盐调味后收汁出锅",
+    "cookingTime": 40,
+    "difficulty": "medium",
+    "servings": 3,
+    "tags": [
+      "板栗",
+      "鸡肉",
+      "暖心"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukas73mh5ytl",
+        "name": "鸡肉",
+        "amount": "400",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukaseeztjx44",
+        "name": "板栗",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55frmbqw4vn9",
+    "name": "双椒鸡丁",
+    "category": "家常菜",
+    "description": "鸡丁滑嫩，青红椒配色亮丽，辣香下饭。",
+    "coverImage": "",
+    "cookingSteps": "1. 鸡胸肉或鸡腿肉切丁，加生抽、料酒、淀粉抓匀腌制 15 分钟\n2. 青椒、红椒切丁，蒜切末\n3. 热锅倒油，下鸡丁滑炒至变色盛出\n4. 锅中留油爆香蒜末，放入青红椒丁翻炒断生\n5. 倒回鸡丁，加少许蚝油和盐大火翻炒均匀即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "鸡丁",
+      "快手",
+      "下饭"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukas73mh5ytl",
+        "name": "鸡肉",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-47",
+        "name": "青椒",
+        "amount": "1.5",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-38",
+        "name": "红椒",
+        "amount": "1.5",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55ft52kadsup",
+    "name": "荷兰豆炒腊肠",
+    "category": "家常菜",
+    "description": "腊肠咸香出油，荷兰豆清脆爽口。",
+    "coverImage": "",
+    "cookingSteps": "1. 荷兰豆摘去两头老筋洗净；广式腊肠切片\n2. 锅中烧水，水开后放入荷兰豆焯烫 30 秒捞出过凉\n3. 热锅放少许油，下腊肠片小火煸炒至透明微焦\n4. 倒入荷兰豆转大火快速翻炒\n5. 加少许生抽或盐调味，翻炒均匀即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "腊肠",
+      "荷兰豆",
+      "快手"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukasn2ui5kbv",
+        "name": "荷兰豆",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukatvce6wqzn",
+        "name": "腊肠",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fux8tiai1g",
+    "name": "四季豆爆炒肉",
+    "category": "家常菜",
+    "description": "四季豆干香透熟，肉末或肉丝鲜香入味。",
+    "coverImage": "",
+    "cookingSteps": "1. 四季豆去筋洗净切段或斜刀段，沥干水分；猪肉切丝或肉末，加少许生抽、淀粉抓匀\n2. 蒜切末，干辣椒或小米辣切段\n3. 热锅多放一点油，下四季豆中小火煸炒至表皮起皱、熟透，盛出备用\n4. 锅留底油，下肉丝炒散变色，再加蒜末和辣椒炒香\n5. 倒回四季豆，加生抽、蚝油、少许盐大火翻炒均匀出锅",
+    "cookingTime": 20,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "四季豆",
+      "家常",
+      "下饭"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-45",
+        "name": "四季豆",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukattlpyeyjz",
+        "name": "猪肉",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fwwof2cbhn",
+    "name": "尖椒炒豆噗",
+    "category": "素菜",
+    "description": "豆泡吸饱酱汁软嫩多汁，尖椒香辣爽脆。",
+    "coverImage": "",
+    "cookingSteps": "1. 豆泡（油豆腐泡）对半切开或保持完整；尖椒切滚刀块，蒜切片\n2. 热锅倒油，下蒜片和尖椒翻炒至断生\n3. 放入豆泡翻炒均匀\n4. 加生抽、蚝油、少许盐和 3-4 勺清水，中小火焖煮 2-3 分钟让豆泡吸汁\n5. 转大火收汁即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "豆泡",
+      "素菜",
+      "下饭"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukatgf9lrgvg",
+        "name": "豆泡",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukatpgfguyml",
+        "name": "尖椒",
+        "amount": "3",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55fyehcp4dzv",
+    "name": "口蘑炒鸡",
+    "category": "家常菜",
+    "description": "口蘑汁水丰盈鲜美，鸡肉嫩滑，鲜上加鲜。",
+    "coverImage": "",
+    "cookingSteps": "1. 鸡肉切块或片，加生抽、料酒、淀粉抓匀腌制 15 分钟\n2. 口蘑洗净切片，蒜切片，葱切段\n3. 锅中放油，下鸡肉滑炒变色后盛出\n4. 锅中放少许油，下蒜片和口蘑片炒出汁水\n5. 倒回鸡肉，加生抽、蚝油、少许盐翻炒均匀，撒葱段出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "口蘑",
+      "鸡肉",
+      "鲜美"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukau7gjtazw6",
+        "name": "口蘑",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukas73mh5ytl",
+        "name": "鸡肉",
+        "amount": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55g0t9o4bcxp",
+    "name": "手撕包菜",
+    "category": "素菜",
+    "description": "包菜用手撕保留脆感，大火快炒微焦香脆。",
+    "coverImage": "",
+    "cookingSteps": "1. 包菜撕成适口大块，洗净沥干水分；蒜切片，干辣椒切段\n2. 锅中倒油烧热，下蒜片和干辣椒炒出香味\n3. 倒入包菜转大火快速翻炒至变软微焦\n4. 加少许白醋、生抽、盐快速翻炒均匀\n5. 出锅前可淋少许香油或蚝油提味",
+    "cookingTime": 10,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "包菜",
+      "素菜",
+      "快手"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukaugxhawjxe",
+        "name": "包菜",
+        "amount": "400",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-17",
+        "name": "干辣椒",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukau1s6tgst5",
+        "name": "白醋",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55g2oi1ibkn4",
+    "name": "蒸茄子",
+    "category": "素菜",
+    "description": "茄子蒸制软烂少油，淋上蒜蓉酱汁清香入味。",
+    "coverImage": "",
+    "cookingSteps": "1. 茄子洗净切段或长条，摆入盘中\n2. 蒸锅上汽后放入茄子，大火蒸 8-10 分钟至软烂，取出放凉撕成条\n3. 蒜切末，葱切花；调酱汁：生抽、蚝油、少许香醋、糖和盐拌匀\n4. 锅中放少许油爆香蒜末，倒入酱汁煮开\n5. 将蒜蓉酱汁淋在茄子上，撒上葱花即可",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "素菜",
+      "低油",
+      "蒜香"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-46",
+        "name": "茄子",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "4",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukapfcnq3qhc",
+        "name": "葱花",
+        "amount": "适量",
+        "unit": ""
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55g42pnlue5j",
+    "name": "虾滑粉丝煲",
+    "category": "海鲜",
+    "description": "粉丝吸满鲜汤，虾滑弹牙，砂锅保温浓郁。",
+    "coverImage": "",
+    "cookingSteps": "1. 粉丝用温水泡软剪短；蒜切末，葱切花\n2. 砂锅或炒锅放少许油，爆香蒜末，加生抽、蚝油和适量热水煮开\n3. 铺入粉丝，再用勺子将虾滑挤成小块铺在上面\n4. 盖上锅盖中小火焖煮 5-6 分钟至虾滑熟透、汤汁收浓\n5. 加少许盐调味，撒上葱花即可上桌",
+    "cookingTime": 20,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "海鲜",
+      "虾滑",
+      "粉丝"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukao38acynkl",
+        "name": "虾滑",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-55",
+        "name": "粉丝",
+        "amount": "100",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "4",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukapfcnq3qhc",
+        "name": "葱花",
+        "amount": "适量",
+        "unit": ""
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55g5h1tb33xp",
+    "name": "菠菜煮鸡蛋",
+    "category": "汤",
+    "description": "简单快捷的家常营养汤，菠菜翠绿，蛋花柔嫩。",
+    "coverImage": "",
+    "cookingSteps": "1. 菠菜洗净切段，鸡蛋打入碗中加少许盐打散\n2. 锅中加水烧开，放少许油和姜丝\n3. 淋入蛋液，待蛋花浮起后放入菠菜段\n4. 菠菜烫熟变软后，加盐和少许白胡椒粉调味\n5. 搅拌均匀即可关火出锅",
+    "cookingTime": 10,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "汤",
+      "快手",
+      "家常"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukavng88vrfh",
+        "name": "菠菜",
+        "amount": "200",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-34",
+        "name": "鸡蛋",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "2",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55g7vz9y6820",
+    "name": "小炒包菜➕胡萝卜丝➕鸡蛋",
+    "category": "家常菜",
+    "description": "色彩缤纷的家常小炒，蛋香浓郁，包菜脆甜。",
+    "coverImage": "",
+    "cookingSteps": "1. 包菜切丝或小片，胡萝卜去皮切细丝，鸡蛋打散加少许盐\n2. 锅中倒油烧热，倒入蛋液炒散成蛋块后盛出\n3. 锅中补少许油，下胡萝卜丝翻炒出胡萝卜素与香味\n4. 加入包菜大火快速翻炒至断生\n5. 倒回炒好的鸡蛋，加生抽、盐翻炒均匀即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "家常菜",
+      "鸡蛋",
+      "快手"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukaugxhawjxe",
+        "name": "包菜",
+        "amount": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-26",
+        "name": "胡萝卜",
+        "amount": "0.5",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-34",
+        "name": "鸡蛋",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55g9uhlvjhr6",
+    "name": "猪肉丸子鲜汤",
+    "category": "汤",
+    "description": "肉丸鲜嫩多汁，汤头清甜暖胃。",
+    "coverImage": "",
+    "cookingSteps": "1. 猪肉馅加少许盐、生抽、料酒、姜末、淀粉和少许清水，顺时针搅拌上劲\n2. 锅中加水或高汤，放姜片烧开\n3. 用虎口挤出或用勺子舀出肉丸，下入微沸的水中\n4. 转中小火煮至肉丸浮起并熟透，撇去浮沫\n5. 可加入青菜或白菜叶煮软，加盐和白胡椒粉调味，撒葱花出锅",
+    "cookingTime": 25,
+    "difficulty": "medium",
+    "servings": 3,
+    "tags": [
+      "汤",
+      "肉丸",
+      "暖胃"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukavs3w9f6q0",
+        "name": "猪肉馅",
+        "amount": "250",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukapfcnq3qhc",
+        "name": "葱花",
+        "amount": "适量",
+        "unit": ""
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55ga3poq1asq",
+    "name": "炒茄子",
+    "category": "素菜",
+    "description": "家常下饭炒茄子，酱香浓郁，软烂入味。",
+    "coverImage": "",
+    "cookingSteps": "1. 茄子切滚刀块或条，可撒少许盐抓匀腌制 10 分钟后挤出多余水分以减少吸油\n2. 蒜切末，葱切花\n3. 锅中放油烧热，倒入茄子翻炒至变软微焦\n4. 加入蒜末炒香，调入生抽、蚝油、少许老抽和几勺清水\n5. 焖煮 2 分钟至入味收汁，撒上葱花即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "茄子",
+      "素菜",
+      "下饭"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-46",
+        "name": "茄子",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "4",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-41",
+        "name": "蚝油",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-4",
+        "name": "老抽",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukapfcnq3qhc",
+        "name": "葱花",
+        "amount": "适量",
+        "unit": ""
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55gctdq6cyz7",
+    "name": "凉拌茄子",
+    "category": "素菜",
+    "description": "酸辣蒜香，清爽开胃，无油腻感的凉拌菜。",
+    "coverImage": "",
+    "cookingSteps": "1. 茄子洗净切段或条，上锅蒸 8-10 分钟至软烂，取出放凉后撕成条\n2. 蒜切末，小米辣切圈，香菜切段\n3. 调凉拌汁：生抽、香醋、蚝油、少许白糖、盐和香油拌匀\n4. 将茄条放入碗中，放上蒜末、小米辣和香菜\n5. 淋上凉拌汁拌匀即可食用",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "凉拌",
+      "茄子",
+      "开胃"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-46",
+        "name": "茄子",
+        "amount": "2",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "4",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-61",
+        "name": "小米辣",
+        "amount": "2",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukavbn8x529a",
+        "name": "香醋",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-49",
+        "name": "香油",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukaw24sb37xz",
+        "name": "香菜",
+        "amount": "适量",
+        "unit": ""
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55geqf4bg765",
+    "name": "莴笋拌藕片",
+    "category": "素菜",
+    "description": "双脆搭配，清脆爽口，解腻开胃。",
+    "coverImage": "",
+    "cookingSteps": "1. 莴笋去皮切薄片，莲藕去皮切薄片，藕片泡入清水中防氧化变黑\n2. 锅中烧水，水开后先下藕片焯烫 1 分钟，再放入莴笋片焯烫 20 秒捞出\n3. 过凉水沥干，放入碗中\n4. 加入蒜末、干辣椒段或少许辣椒油、盐、白糖、生抽、香醋和香油\n5. 拌匀即可装盘",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "凉拌",
+      "脆爽",
+      "素菜"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukawahgkllmb",
+        "name": "莴笋",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "mwncukaqysbmcyjg",
+        "name": "莲藕",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-20",
+        "name": "蒜",
+        "amount": "3",
+        "unit": "瓣"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukavbn8x529a",
+        "name": "香醋",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-49",
+        "name": "香油",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55gg5z4q3xxz",
+    "name": "菠萝咕噜肉",
+    "category": "家常菜",
+    "description": "外酥里嫩的肉块搭配酸甜菠萝，色香味俱全。",
+    "coverImage": "",
+    "cookingSteps": "1. 猪梅花肉或里脊切块，加盐、料酒、生抽腌制 15 分钟，再裹上一层淀粉；菠萝切块，青红椒切块\n2. 调糖醋汁：番茄酱、白糖、白醋、少许生抽和淀粉水拌匀\n3. 锅中放油烧热，下肉块炸或煎至金黄酥脆捞出\n4. 锅留少许油，倒入糖醋汁煮至冒泡变浓稠\n5. 放入肉块、菠萝块和青红椒块快速翻炒裹匀即可出锅",
+    "cookingTime": 25,
+    "difficulty": "medium",
+    "servings": 3,
+    "tags": [
+      "菠萝",
+      "酸甜",
+      "经典"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "ing-24",
+        "name": "猪里脊",
+        "amount": "300",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukawgjtgnv9s",
+        "name": "菠萝",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "mwncukaq9ab9ipyp",
+        "name": "青红椒",
+        "amount": "1",
+        "unit": "个"
+      },
+      {
+        "ingredientId": "ing-10",
+        "name": "番茄酱",
+        "amount": "3",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukawy3etaqo8",
+        "name": "白糖",
+        "amount": "2",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukau1s6tgst5",
+        "name": "白醋",
+        "amount": "1.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "3",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "mwnd55gjc7h48yyn",
+    "name": "丝瓜肉片汤",
+    "category": "汤",
+    "description": "丝瓜清甜柔滑，肉片鲜嫩，汤水清润。",
+    "coverImage": "",
+    "cookingSteps": "1. 丝瓜去皮切滚刀块；瘦肉切片，加少许生抽、料酒、淀粉抓匀腌制 10 分钟\n2. 姜切丝\n3. 锅中放少许油，下姜丝和肉片滑炒至变色，倒入适量热水烧开\n4. 放入丝瓜块，煮约 2-3 分钟至丝瓜变软、汤汁泛白\n5. 加盐和少许白胡椒粉调味，即可出锅",
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "tags": [
+      "汤",
+      "丝瓜",
+      "清淡"
+    ],
+    "createdBy": "me",
+    "createdAt": "2026-11-19T09:44:02.233Z",
+    "updatedAt": "2026-11-19T09:44:02.233Z",
+    "favorited": false,
+    "liked": false,
+    "likeCount": 0,
+    "cookCount": 0,
+    "ingredients": [
+      {
+        "ingredientId": "mwncukb0ojr4aem6",
+        "name": "丝瓜",
+        "amount": "1",
+        "unit": "根"
+      },
+      {
+        "ingredientId": "mwncukb0kss3zf1i",
+        "name": "瘦肉",
+        "amount": "150",
+        "unit": "g"
+      },
+      {
+        "ingredientId": "ing-5",
+        "name": "姜",
+        "amount": "3",
+        "unit": "片"
+      },
+      {
+        "ingredientId": "ing-3",
+        "name": "生抽",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-6",
+        "name": "料酒",
+        "amount": "0.5",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "ing-23",
+        "name": "淀粉",
+        "amount": "1",
+        "unit": "勺"
+      },
+      {
+        "ingredientId": "mwncukamvg8vmei6",
+        "name": "盐",
+        "amount": "适量",
+        "unit": ""
+      }
+    ]
   }
 ]
