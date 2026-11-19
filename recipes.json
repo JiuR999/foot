@@ -1189,67 +1189,6 @@
     ]
   },
   {
-    "id": "recipe-24",
-    "name": "红烧豆腐",
-    "category": "素菜",
-    "description": "外焦里嫩的红烧豆腐，简单又下饭！",
-    "coverImage": "https://images.unsplash.com/photo-1582452919408-aca4cd4cff2e?w=600&h=400&fit=crop",
-    "cookingSteps": "1. 豆腐切块，厨房纸吸干水分\n2. 锅中热油，放入豆腐煎至两面金黄\n3. 调汁：生抽、老抽、蚝油、糖、淀粉、水\n4. 将调好的汁倒入锅中\n5. 小火煮2分钟让豆腐入味\n6. 大火收汁，撒上葱花出锅",
-    "cookingTime": 15,
-    "difficulty": "easy",
-    "servings": 2,
-    "tags": [
-      "素菜",
-      "下饭",
-      "快手"
-    ],
-    "createdBy": "me",
-    "createdAt": "2024-11-24T09:00:00.000Z",
-    "updatedAt": "2024-11-24T09:00:00.000Z",
-    "favorited": false,
-    "liked": true,
-    "likeCount": 5,
-    "cookCount": 13,
-    "ingredients": [
-      {
-        "ingredientId": "ing-56",
-        "name": "老豆腐",
-        "amount": "1",
-        "unit": "块"
-      },
-      {
-        "ingredientId": "ing-3",
-        "name": "生抽",
-        "amount": "2",
-        "unit": "勺"
-      },
-      {
-        "ingredientId": "ing-4",
-        "name": "老抽",
-        "amount": "半",
-        "unit": "勺"
-      },
-      {
-        "ingredientId": "ing-41",
-        "name": "蚝油",
-        "amount": "1",
-        "unit": "勺"
-      },
-      {
-        "ingredientId": "ing-22",
-        "name": "糖",
-        "amount": "半",
-        "unit": "勺"
-      },
-      {
-        "ingredientId": "ing-19",
-        "name": "葱",
-        "amount": "1",
-        "unit": "根"
-      }
-    ]
-  },
-  {
     "id": "recipe-25",
     "name": "木须肉",
     "category": "家常菜",
