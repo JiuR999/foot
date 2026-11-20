@@ -2,7 +2,7 @@
   "primaryColor": "#60A5FA",
   "backgroundColor": "#FFF5F9",
   "borderRadius": 32,
-  "shadowStrength": 1,
+  "shadowStrength": 3,
   "fontFamily": "Noto Sans SC",
   "uiStyle": "liquid-glass",
   "myNickname": "",
