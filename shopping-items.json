@@ -1,6 +1,6 @@
 [
   {
-    "id": "shop-1795153992267-0",
+    "id": "shop-1795163128067-0",
     "ingredientName": "猪肉",
     "totalAmount": "250.0",
     "unit": "g",
@@ -10,17 +10,18 @@
     ]
   },
   {
-    "id": "shop-1795153992267-1",
+    "id": "shop-1795163128067-1",
     "ingredientName": "青椒",
-    "totalAmount": "3.0",
+    "totalAmount": "6.0",
     "unit": "个",
     "checked": false,
     "orderIds": [
-      "mwokbpfsb9owe94h"
+      "mwokbpfsb9owe94h",
+      "mwoprokzu8naiea8"
     ]
   },
   {
-    "id": "shop-1795153992267-2",
+    "id": "shop-1795163128067-2",
     "ingredientName": "蒜",
     "totalAmount": "4.0",
     "unit": "瓣",
@@ -30,17 +31,18 @@
     ]
   },
   {
-    "id": "shop-1795153992267-3",
+    "id": "shop-1795163128067-3",
     "ingredientName": "生抽",
-    "totalAmount": "1.0",
+    "totalAmount": "2.0",
     "unit": "勺",
     "checked": false,
     "orderIds": [
-      "mwokbpfsb9owe94h"
+      "mwokbpfsb9owe94h",
+      "mwoprokzu8naiea8"
     ]
   },
   {
-    "id": "shop-1795153992267-4",
+    "id": "shop-1795163128067-4",
     "ingredientName": "蚝油",
     "totalAmount": "1.0",
     "unit": "勺",
@@ -50,13 +52,34 @@
     ]
   },
   {
-    "id": "shop-1795153992267-5",
+    "id": "shop-1795163128067-5",
     "ingredientName": "料酒",
+    "totalAmount": "2.0",
+    "unit": "勺",
+    "checked": false,
+    "orderIds": [
+      "mwokbpfsb9owe94h",
+      "mwoprokzu8naiea8"
+    ]
+  },
+  {
+    "id": "shop-1795163128067-6",
+    "ingredientName": "猪里脊",
+    "totalAmount": "200.0",
+    "unit": "g",
+    "checked": false,
+    "orderIds": [
+      "mwoprokzu8naiea8"
+    ]
+  },
+  {
+    "id": "shop-1795163128067-7",
+    "ingredientName": "淀粉",
     "totalAmount": "1.0",
     "unit": "勺",
     "checked": false,
     "orderIds": [
-      "mwokbpfsb9owe94h"
+      "mwoprokzu8naiea8"
     ]
   }
 ]
