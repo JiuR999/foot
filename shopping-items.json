@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "shop-1795140806638-0",
+    "ingredientName": "鸡翅中",
+    "totalAmount": "500.0",
+    "unit": "g",
+    "checked": false,
+    "orderIds": [
+      "mwochja66qpc84m9"
+    ]
+  },
+  {
+    "id": "shop-1795140806638-1",
+    "ingredientName": "可乐",
+    "totalAmount": "330.0",
+    "unit": "ml",
+    "checked": false,
+    "orderIds": [
+      "mwochja66qpc84m9"
+    ]
+  },
+  {
+    "id": "shop-1795140806638-2",
+    "ingredientName": "生抽",
+    "totalAmount": "2.0",
+    "unit": "勺",
+    "checked": false,
+    "orderIds": [
+      "mwochja66qpc84m9"
+    ]
+  },
+  {
+    "id": "shop-1795140806638-3",
+    "ingredientName": "老抽",
+    "totalAmount": "1.0",
+    "unit": "勺",
+    "checked": false,
+    "orderIds": [
+      "mwochja66qpc84m9"
+    ]
+  },
+  {
+    "id": "shop-1795140806638-4",
+    "ingredientName": "姜",
+    "totalAmount": "3.0",
+    "unit": "片",
+    "checked": false,
+    "orderIds": [
+      "mwochja66qpc84m9"
+    ]
+  },
+  {
+    "id": "shop-1795140806639-5",
+    "ingredientName": "料酒",
+    "totalAmount": "1.0",
+    "unit": "勺",
+    "checked": false,
+    "orderIds": [
+      "mwochja66qpc84m9"
+    ]
+  },
+  {
+    "id": "shop-1795140806639-6",
+    "ingredientName": "白芝麻",
+    "totalAmount": "0.0",
+    "unit": "",
+    "checked": false,
+    "orderIds": [
+      "mwochja66qpc84m9"
+    ]
+  }
+]
