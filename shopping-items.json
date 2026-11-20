@@ -4,7 +4,7 @@
     "ingredientName": "鸡翅中",
     "totalAmount": "500.0",
     "unit": "g",
-    "checked": false,
+    "checked": true,
     "orderIds": [
       "mwochja66qpc84m9"
     ]
@@ -14,7 +14,7 @@
     "ingredientName": "可乐",
     "totalAmount": "330.0",
     "unit": "ml",
-    "checked": false,
+    "checked": true,
     "orderIds": [
       "mwochja66qpc84m9"
     ]
@@ -24,7 +24,7 @@
     "ingredientName": "生抽",
     "totalAmount": "2.0",
     "unit": "勺",
-    "checked": false,
+    "checked": true,
     "orderIds": [
       "mwochja66qpc84m9"
     ]
@@ -34,7 +34,7 @@
     "ingredientName": "老抽",
     "totalAmount": "1.0",
     "unit": "勺",
-    "checked": false,
+    "checked": true,
     "orderIds": [
       "mwochja66qpc84m9"
     ]
@@ -44,7 +44,7 @@
     "ingredientName": "姜",
     "totalAmount": "3.0",
     "unit": "片",
-    "checked": false,
+    "checked": true,
     "orderIds": [
       "mwochja66qpc84m9"
     ]
@@ -54,7 +54,7 @@
     "ingredientName": "料酒",
     "totalAmount": "1.0",
     "unit": "勺",
-    "checked": false,
+    "checked": true,
     "orderIds": [
       "mwochja66qpc84m9"
     ]
@@ -64,7 +64,7 @@
     "ingredientName": "白芝麻",
     "totalAmount": "0.0",
     "unit": "",
-    "checked": false,
+    "checked": true,
     "orderIds": [
       "mwochja66qpc84m9"
     ]
