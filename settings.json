@@ -1,5 +1,5 @@
 {
-  "primaryColor": "#60A5FA",
+  "primaryColor": "#F9A8D4",
   "backgroundColor": "#FFF5F9",
   "borderRadius": 16,
   "shadowStrength": 1,
@@ -9,6 +9,6 @@
   "taNickname": "",
   "githubRepo": "foot",
   "githubOwner": "JiuR999",
-  "lastSyncAt": null,
-  "aiModel": "gemini-3.8-flash"
+  "aiModel": "gemini-3.8-flash",
+  "lastSyncAt": null
 }
