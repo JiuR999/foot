@@ -60,9 +60,9 @@
     "to": "ta",
     "expectedDate": "2026-11-20",
     "message": "我想吃这个 宝宝可以给我做吗",
-    "status": "pending",
+    "status": "cancelled",
     "createdAt": "2026-11-20T05:51:18.671Z",
-    "updatedAt": "2026-11-20T05:51:18.671Z"
+    "updatedAt": "2026-11-20T05:52:09.237Z"
   },
   {
     "id": "mwokafmkhfletilz",
